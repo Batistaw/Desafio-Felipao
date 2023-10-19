@@ -1,4 +1,4 @@
-let nomeHeroi = "coringa"
+let nomeHeroi = "Thanos"
 let nivelHeroi = 20000
 let experiencia = ""
 
@@ -26,5 +26,5 @@ else if(nivelHeroi >=9001 && nivelHeroi <=10000){
 else{
     experiencia = "Radiante"
 }
-console.log("O heroi de nome " + nomeHeroi + " está no nivel de " + experiencia)
+console.log("O Heroi de nome " + nomeHeroi + " está no nível  " + experiencia)
 
